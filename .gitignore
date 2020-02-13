@@ -43,12 +43,12 @@ buck-out
 # Watchman
 .watchmanconfig
 
-# Android
+# Android/IntelliJ
+build/
 .idea
 .gradle
 local.properties
 *.iml
-/android/
 
 # Node
 node_modules

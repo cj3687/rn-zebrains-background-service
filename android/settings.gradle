@@ -1,0 +1,3 @@
+rootProject.name = 'RNZebrains'
+
+include ':app'
